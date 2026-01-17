@@ -8,4 +8,4 @@ Run
 npm run dev
 ```
 
-Use browser to connect ```[http://localhost:](http://localhost:5173/)```
+Use browser to connect ```http://localhost:5173```
