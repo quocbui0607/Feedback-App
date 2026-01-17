@@ -5,6 +5,7 @@ Feedback App for relearning React + Redux
 Pull the repository
 Run
 ```
+npm install
 npm run dev
 ```
 
